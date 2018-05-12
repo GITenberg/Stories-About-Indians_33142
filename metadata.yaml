@@ -1,0 +1,26 @@
+_repo: Stories-About-Indians_33142
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merrill, Rufus
+    birthdate: 1803
+    deathdate: 1891
+    gutenberg_agent_id: '3657'
+    url: http://www.gutenberg.org/2009/agents/3657
+description: ''
+gutenberg_issued: '2010-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile literature'
+- !lcc 'PZ'
+title: Stories About Indians
+url: http://www.gutenberg.org/ebooks/33142
